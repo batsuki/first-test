@@ -24,6 +24,6 @@
 
 Markdown: [Qiita](http://qiita.com "Qiita")
 
-- [ ]aaaa
-- [ ]bbbb
-- [ ]cccc
+- [x] Foo
+- [ ] Bar
+- [ ] Baz
