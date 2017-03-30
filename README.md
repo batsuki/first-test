@@ -24,6 +24,6 @@
 
 Markdown: [Qiita](http://qiita.com "Qiita")
 
--[]aaaa
--[]bbbb
--[]cccc
+-[ ]aaaa
+-[ ]bbbb
+-[ ]cccc
